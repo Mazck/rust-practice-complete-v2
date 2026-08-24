@@ -1,0 +1,10 @@
+[package]
+name = "cargo-lab"
+version.workspace = true
+edition.workspace = true
+build = "build.rs"
+
+[features]
+default = ["pretty"]
+pretty = []
+compact = []

@@ -1,0 +1,26 @@
+[package]
+name = "production-lab"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "production_lab"
+path = "src/lib.rs"
+
+[dependencies]
+argon2 = "0.5"
+jsonwebtoken = { version = "11", default-features = false, features = ["rust_crypto"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+sqlx = { version = "0.9", default-features = false, features = ["sqlite", "runtime-tokio", "tls-rustls-ring", "macros", "migrate"] }
+thiserror = "2"
+tokio = { version = "1", features = ["full"] }
+tracing = "0.1"
+
+[dev-dependencies]
+criterion = "0.8"
+proptest = "1.11"
+
+[[bench]]
+name = "telemetry_parse"
+harness = false

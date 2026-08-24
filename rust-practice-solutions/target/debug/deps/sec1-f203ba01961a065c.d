@@ -1,0 +1,11 @@
+C:\Users\datng\Desktop\rust-practice-complete-v2\rust-practice-solutions\target\debug\deps\sec1-f203ba01961a065c.d: C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\lib.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\point.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\error.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\parameters.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\private_key.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\traits.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\../README.md
+
+C:\Users\datng\Desktop\rust-practice-complete-v2\rust-practice-solutions\target\debug\deps\libsec1-f203ba01961a065c.rmeta: C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\lib.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\point.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\error.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\parameters.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\private_key.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\traits.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\../README.md
+
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\lib.rs:
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\point.rs:
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\error.rs:
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\parameters.rs:
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\private_key.rs:
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\traits.rs:
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\../README.md:

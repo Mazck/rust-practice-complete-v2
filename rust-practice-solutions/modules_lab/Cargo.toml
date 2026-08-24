@@ -1,0 +1,15 @@
+[package]
+name = "modules-lab"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "modules_lab"
+path = "src/lib.rs"
+
+[[bin]]
+name = "modules-demo"
+path = "src/main.rs"
+
+[dependencies]
+thiserror = "2"

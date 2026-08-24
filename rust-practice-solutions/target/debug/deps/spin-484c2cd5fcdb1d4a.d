@@ -1,0 +1,12 @@
+C:\Users\datng\Desktop\rust-practice-complete-v2\rust-practice-solutions\target\debug\deps\spin-484c2cd5fcdb1d4a.d: C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\lib.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\barrier.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\lazy.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\mutex.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\mutex\spin.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\once.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\relax.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\rwlock.rs
+
+C:\Users\datng\Desktop\rust-practice-complete-v2\rust-practice-solutions\target\debug\deps\libspin-484c2cd5fcdb1d4a.rmeta: C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\lib.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\barrier.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\lazy.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\mutex.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\mutex\spin.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\once.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\relax.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\rwlock.rs
+
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\lib.rs:
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\barrier.rs:
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\lazy.rs:
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\mutex.rs:
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\mutex\spin.rs:
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\once.rs:
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\relax.rs:
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\rwlock.rs:

@@ -1,0 +1,11 @@
+C:\Users\datng\Desktop\rust-practice-complete-v2\rust-practice-solutions\target\debug\deps\rusty_fork-b827f19c05ba1108.d: C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rusty-fork-0.3.1\src\lib.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rusty-fork-0.3.1\src\sugar.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rusty-fork-0.3.1\src\fork_test.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rusty-fork-0.3.1\src\error.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rusty-fork-0.3.1\src\cmdline.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rusty-fork-0.3.1\src\fork.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rusty-fork-0.3.1\src\child_wrapper.rs
+
+C:\Users\datng\Desktop\rust-practice-complete-v2\rust-practice-solutions\target\debug\deps\librusty_fork-b827f19c05ba1108.rmeta: C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rusty-fork-0.3.1\src\lib.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rusty-fork-0.3.1\src\sugar.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rusty-fork-0.3.1\src\fork_test.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rusty-fork-0.3.1\src\error.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rusty-fork-0.3.1\src\cmdline.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rusty-fork-0.3.1\src\fork.rs C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rusty-fork-0.3.1\src\child_wrapper.rs
+
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rusty-fork-0.3.1\src\lib.rs:
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rusty-fork-0.3.1\src\sugar.rs:
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rusty-fork-0.3.1\src\fork_test.rs:
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rusty-fork-0.3.1\src\error.rs:
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rusty-fork-0.3.1\src\cmdline.rs:
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rusty-fork-0.3.1\src\fork.rs:
+C:\Users\datng\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rusty-fork-0.3.1\src\child_wrapper.rs:

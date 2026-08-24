@@ -1,0 +1,30 @@
+[package]
+name = "network-lab"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "network_lab"
+path = "src/lib.rs"
+
+[[bin]]
+name = "network-server"
+path = "src/main.rs"
+
+[dependencies]
+axum = "0.8"
+futures-util = "0.3"
+reqwest = { version = "0.13", default-features = false, features = ["json", "query", "rustls"] }
+rumqttc = "0.25"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+thiserror = "2"
+tokio = { version = "1", features = ["full"] }
+tokio-tungstenite = "0.30"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter", "fmt"] }
+
+tower-http = { version = "0.6", features = ["trace", "timeout"] }
+
+[dev-dependencies]
+tower = { version = "0.5", features = ["util"] }
